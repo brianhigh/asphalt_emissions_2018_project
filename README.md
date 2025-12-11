@@ -1,7 +1,7 @@
 
 # U.S. Asphalt Emissions Choropleth (2018)
 
-This project creates a **U.S. states choropleth map** of asphalt-related emissions (Total kg/person) using the EPA State & County Inventory (2018). The map includes **Alaska and Hawaii**, uses **grey borders**, a **white background**, and a vivid **dark green → yellow → red** fill scale.
+This project creates a **U.S. states choropleth map** of asphalt-related emissions (Total kg/person) using the EPA State & County Inventory (2018).
 
 ![Map preview](plots/epa_asphalt_emissions_2018.png)
 
