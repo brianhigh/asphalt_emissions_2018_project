@@ -1,0 +1,25 @@
+
+# R defaults
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R environment files
+.Renviron
+.Rprofile
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python/virtualenv leftovers (if any)
+venv/
+__pycache__/
+
+# Logs
+*.log
