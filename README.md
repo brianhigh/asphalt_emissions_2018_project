@@ -50,4 +50,4 @@ This project creates a **U.S. states choropleth map** of asphalt-related emissio
 
 ## Colophon
 
-This project was created with MS Copilot app in "Think deeper" mode (GPT-5) in a single try from the prompt saved by Copilot in [prompt.md](prompt.md). The only manual edit was to add this Colophon to this README.md file. Copilot took three minutes to create this project on 2025-12-11.
+This project was created with MS Copilot app in "Think deeper" mode (GPT-5) in a single try from the prompt saved by Copilot in [prompt.md](prompt.md). The only manual edits made to this project were for this README file: (1) remove some extra text and (2) add this Colophon. Copilot took three minutes to create this project on 2025-12-11.
